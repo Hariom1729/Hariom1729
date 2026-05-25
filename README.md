@@ -1,128 +1,209 @@
-Create a premium futuristic GitHub Profile README for me inspired by top developer GitHub profiles.
+<div align="center">
 
-The README should look modern, visually stunning, animated, and highly professional like elite open-source developers and software engineers.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Hariom%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58" width="100%" />
 
-STYLE:
+<br/>
 
-* Dark futuristic theme
-* Premium developer aesthetic
-* Animated banners
-* Neon gradients
-* Clean typography
-* Modern layout
-* Interactive badges
-* Motion-inspired sections
-* Glassmorphism vibe
-* High-end portfolio feeling
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Enthusiast;Building+Futuristic+SaaS+Applications)](https://git.io/typing-svg)
 
-PERSONAL BRANDING:
-Name: Hariom Yadav
+<img src="https://komarev.com/ghpvc/?username=Hariom1729&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
-Role:
+</div>
 
-* Full Stack Developer
-* MERN Stack Developer
-* AI Enthusiast
-* UI/UX Explorer
-* Open Source Learner
+---
 
-ABOUT ME SECTION:
-Create a modern About Me section with:
+<div align="center">
 
-* Passion for building scalable applications
-* Interest in AI and futuristic UI
-* Love for full-stack development
-* Learning DevOps & Cloud
-* Building modern SaaS products
-* Competitive programming mindset
-* Open-source enthusiasm
+# ⚡ ABOUT ME
 
-TECH STACK SECTION:
-Create visually attractive badges/icons for:
-Frontend:
+</div>
 
-* React
-* Next.js
-* Tailwind CSS
-* TypeScript
-* Redux
-* Framer Motion
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Backend:
+```yaml
+name: Hariom Yadav
+located_in: India
+current_focus:
+  [
+    "Modern SaaS Applications",
+    "AI Integrations",
+    "Advanced Frontend Animations",
+    "Scalable MERN Architecture",
+    "Cloud & DevOps Learning"
+  ]
 
-* Node.js
-* Express.js
-* MongoDB
-* PostgreSQL
-* Firebase
+education:
+  [
+    "Self-Taught Developer",
+    "Open Source Enthusiast"
+  ]
 
-Languages:
+fields_of_interests:
+  [
+    "Full Stack Development",
+    "Artificial Intelligence",
+    "UI/UX Engineering",
+    "System Design",
+    "Motion Design"
+  ]
 
-* JavaScript
-* TypeScript
-* Python
-* Java
+currently_learning: ["Next.js", "Docker", "Cloud", "Advanced Backend"]
+2026_goals: ["Build World-Class SaaS Products", "Contribute to Open Source"]
+```
 
-Tools & Platforms:
+---
 
-* GitHub
-* Docker
-* Postman
-* Vercel
-* Render
-* VS Code
-* Linux
+<div align="center">
 
-FEATURES TO ADD:
+# 🚀 TECH STACK
 
-1. Animated Typing Intro
-2. GitHub Stats Card
-3. GitHub Streak Stats
-4. Most Used Languages
-5. Contribution Snake Animation
-6. Visitor Counter
-7. Social Media Badges
-8. Contact Section
-9. Modern Quote Section
-10. Tech Stack Icons
-11. Current Focus Section
-12. Fun Fact Section
-13. Modern Footer
+</div>
 
-DESIGN REQUIREMENTS:
+<div align="center">
 
-* Use shields.io badges
-* Use SVG animations
-* Use centered layouts
-* Make sections visually balanced
-* Use premium spacing
-* Add aesthetic separators
-* Make it feel futuristic and modern
-* Optimize perfectly for GitHub markdown
+### 🎨 Frontend
 
-CURRENT FOCUS SECTION:
-Include:
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,redux,html,css,js,figma&theme=dark" />
 
-* Building modern SaaS applications
-* Advanced frontend animations
-* AI integrations
-* Scalable MERN applications
-* System design learning
+### ⚙️ Backend
 
-CONTACT SECTION:
-Include placeholders for:
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,python,java&theme=dark" />
 
-* LinkedIn
-* Portfolio
-* Gmail
-* GitHub
-* Twitter/X
+### 🛠️ Tools & Platforms
 
-IMPORTANT:
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,vercel,render&theme=dark" />
 
-* Generate complete README.md markdown code
-* Make it look visually impressive on GitHub
-* Make it feel like a top-tier developer profile
-* Use modern developer branding aesthetics
-* Avoid simple/basic GitHub README styling
-* Make it premium and cinematic
+</div>
+
+---
+
+<div align="center">
+
+# 🌌 CONNECT WITH ME
+
+<a href="https://github.com/Hariom1729">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com">
+<img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 GITHUB ANALYTICS
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hariom1729&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hariom1729&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom1729&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 GITHUB TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hariom1729&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ CURRENT FOCUS
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🌐 SaaS Development
+Building scalable modern platforms with futuristic UI/UX.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 AI Integrations
+Exploring AI-powered web applications & automation.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎨 Motion UI
+Creating cinematic and interactive frontend experiences.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 CONTRIBUTION SNAKE
+
+<img src="https://raw.githubusercontent.com/Hariom1729/Hariom1729/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 💻 CODING VIBES
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌟 QUOTE OF THE DAY
+
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎵 SPOTIFY PLAYING
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚔️ FUTURISTIC DEVELOPER MODE ACTIVATED ⚔️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f0c29,50:302b63,100:24243e&section=footer"/>
+
+</div>
