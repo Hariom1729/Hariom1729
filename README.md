@@ -129,6 +129,24 @@ currently_learning: ["Next.js", "Docker", "Cloud", "Advanced Backend"]
 
 ---
 
+## 🎖 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hariom1729&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hariom1729&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hariom1729&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hariom1729&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hariom1729&theme=tokyonight" />
+</p>
+
+---
+
 <div align="center">
 
 # ⚡ CURRENT FOCUS
