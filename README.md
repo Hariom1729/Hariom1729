@@ -104,15 +104,17 @@ currently_learning: ["Next.js", "Docker", "Cloud", "Advanced Backend"]
 
 <div align="center">
 
- 
+
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hariom1729&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hariom1729&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+  <img height="180em" src="https://streak-stats.demolab.com?user=Hariom1729&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hariom1729&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom1729&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
