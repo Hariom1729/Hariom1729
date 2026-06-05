@@ -124,9 +124,9 @@ currently_learning: ["Next.js", "Docker", "Cloud", "Advanced Backend"]
 
 <div align="center">
 
-# 🏆 GITHUB TROPHIES
+# 🏆 GITHUB ACHIEVEMENTS
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hariom1729&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hariom1729&theme=tokyonight" />
 
 </div>
 
