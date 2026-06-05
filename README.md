@@ -85,11 +85,11 @@ currently_learning: ["Next.js", "Docker", "Cloud", "Advanced Backend"]
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/hariom1729">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:hariom.yadavse@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -104,21 +104,16 @@ currently_learning: ["Next.js", "Docker", "Cloud", "Advanced Backend"]
 
 <div align="center">
 
-# 📊 GITHUB ANALYTICS
+ 
+## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hariom1729&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-  <img width="49%" src="https://streak-stats.demolab.com?user=Hariom1729&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hariom1729&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom1729&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hariom1729&theme=tokyonight"/>
 </p>
-
-</div>
-
-
 
 ---
 
