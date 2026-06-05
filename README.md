@@ -101,20 +101,24 @@ currently_learning: ["Next.js", "Docker", "Cloud", "Advanced Backend"]
 
 ---
 
+
 <div align="center">
 
 # 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hariom1729&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  
- <img width="49%" src="https://streak-stats.demolab.com?user=Hariom1729&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hariom1729&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=Hariom1729&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom1729&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&langs_count=8" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom1729&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 </div>
+
+
 
 ---
 
