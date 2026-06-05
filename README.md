@@ -124,9 +124,12 @@ currently_learning: ["Next.js", "Docker", "Cloud", "Advanced Backend"]
 
 <div align="center">
 
-# 🏆 GITHUB ACHIEVEMENTS
+# 🏆 GITHUB TROPHIES
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hariom1729&theme=tokyonight" />
+<img src="https://img.shields.io/badge/Pull%20Shark-Working-blue?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MERN%20Stack-Developer-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Enthusiast-red?style=for-the-badge" />
 
 </div>
 
