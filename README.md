@@ -20,36 +20,21 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```yaml
-name: Hariom Yadav
-located_in: India
-current_focus:
-  [
-    "Modern SaaS Applications",
-    "AI Integrations",
-    "Advanced Frontend Animations",
-    "Scalable MERN Architecture",
-    "Cloud & DevOps Learning"
-  ]
+<div align="left">
 
-education:
-  [
-    "Self-Taught Developer",
-    "Open Source Enthusiast"
-  ]
+### 👨‍💻 About Me
 
-fields_of_interests:
-  [
-    "Full Stack Development",
-    "Artificial Intelligence",
-    "UI/UX Engineering",
-    "System Design",
-    "Motion Design"
-  ]
+* 🇮🇳 Based in India
+* 💼 Full Stack Developer specializing in the MERN Stack
+* 🤖 Passionate about AI-powered applications
+* 🎨 Love crafting smooth and interactive user experiences
+* ☁️ Exploring Cloud, DevOps, and scalable architectures
+* 🚀 Building SaaS products and modern web platforms
+* 📖 Currently learning Next.js, Docker, and Advanced Backend Systems
+* 🎯 Goal: Build world-class software that solves real-world problems
 
-currently_learning: ["Next.js", "Docker", "Cloud", "Advanced Backend"]
-2026_goals: ["Build World-Class SaaS Products", "Contribute to Open Source"]
-```
+</div>
+
 
 ---
 
@@ -208,16 +193,6 @@ Creating cinematic and interactive frontend experiences.
 # 🌟 QUOTE OF THE DAY
 
 > “First, solve the problem. Then, write the code.” – John Johnson
-
-</div>
-
----
-
-<div align="center">
-
-# 🎵 SPOTIFY PLAYING
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)
 
 </div>
 
