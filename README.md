@@ -172,6 +172,8 @@ Creating cinematic and interactive frontend experiences.
 
 # 🐍 CONTRIBUTION SNAKE
 
+# 🐍 CONTRIBUTION SNAKE
+
 <img src="https://raw.githubusercontent.com/Hariom1729/Hariom1729/output/snake.svg" alt="Snake animation" />
 
 </div>
