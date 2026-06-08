@@ -172,8 +172,6 @@ Creating cinematic and interactive frontend experiences.
 
 # 🐍 CONTRIBUTION SNAKE
 
-# 🐍 CONTRIBUTION SNAKE
-
 <img src="https://raw.githubusercontent.com/Hariom1729/Hariom1729/output/snake.svg" alt="Snake animation" />
 
 </div>
@@ -204,7 +202,7 @@ Creating cinematic and interactive frontend experiences.
 
 ## ⚔️ FUTURISTIC DEVELOPER MODE ACTIVATED ⚔️
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f0c29,50:302b63,100:24243e&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F7FF,100:6A00FF"/>
 
 </div>
  
