@@ -186,15 +186,6 @@ Creating cinematic and interactive frontend experiences.
 
 </div>
 
----
-
-<div align="center">
-
-# 🌟 QUOTE OF THE DAY
-
-> “First, solve the problem. Then, write the code.” – John Johnson
-
-</div>
 
 ---
 
